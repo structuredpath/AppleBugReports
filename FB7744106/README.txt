@@ -40,3 +40,7 @@ In the previous feedback (FB6108756), you suggested to opt-out from the compatib
 We tried disabling responsive scrolling, but we ended up with a sluggish scrolling experience. We linked some videos in the mentioned feedback, but now, we’re providing an ad-hoc version of our app, Diagrams (https://diagrams.app). One binary has responsive scrolling enabled (the default) and the other disabled.
 
 You offered to profile the binaries to see what causes the performance issues, and we’d like to ask you to do so. We’d like to learn how to improve the scrolling performance with disabled responsive scrolling OR how to terminate scrolling while handling scroll events on the detached queue (as previously requested).
+
+—————
+
+Yet another use case for a programmatic cancellation of a responsive scrolling session within the NSScrollView would be a trigger that programmatically scrolls to a new target in an animated way (e.g. when pressing a shortcut while scrolling).
