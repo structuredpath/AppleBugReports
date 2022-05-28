@@ -13,6 +13,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB9704384](/FB9704384) - The *Markup* Shortcuts action window doesn’t close automatically when finishing and thus overlaps other windows
 - [FB9789052](/FB9789052) - Broken Renewal of MAS Receipts (Sandbox and Production)
 - [FB9872410](/FB9872410) - Preventing expired TestFlight apps from launching
+- [FB10030640](/FB10030640) - Focus in StoreKit Purchase Alert on macOS
 
 ## About
 
