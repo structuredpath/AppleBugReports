@@ -14,6 +14,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB9789052](/FB9789052) - Broken Renewal of MAS Receipts (Sandbox and Production)
 - [FB9872410](/FB9872410) - Preventing expired TestFlight apps from launching
 - [FB10030640](/FB10030640) - Focus in StoreKit Purchase Alert on macOS
+- [FB10034253](/FB10034253) - Incorrect baseline alignment of SwiftUI Button on macOS
 
 ## About
 
