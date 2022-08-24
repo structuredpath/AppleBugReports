@@ -1,9 +1,7 @@
 # Severe regression with animating `UIHostingController` using UIKit animation techniques
 
-Area: SwiftUI Framework
-Type: Incorrect/Unexpected Behavior
-
----
+- Area: SwiftUI Framework
+- Type: Incorrect/Unexpected Behavior
 
 When wrapping a SwiftUI view into a `UIHostingController`, embedding it into a UIKit context, and animating the wrapping `UIView` using UIKit animation techniques (e.g. `UIViewPropertyAnimation`), the hosted SwiftUI view is not animated correctly. This behavior seems to be a regression in the current betas of iOS 16 (observed with β6 and β7) as it works perfectly fine with iOS 15.6.
 
