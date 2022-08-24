@@ -13,6 +13,10 @@ When applying a spring animation to the height of the container view via `UIView
 
 However, on iOS 16 β7, the height of the red rectangle (SwiftUI view) jumps immediately to the final value, and the gray background (`UIHostingController`’s view) performs the animation in the background. This is shown in the second video. Also, see the results side-by-side in the third video.
 
+| iOS 15.6 | iOS 16 β7 | Comparison |
+| --- | --- | --- |
+| <video src="https://user-images.githubusercontent.com/533299/186359528-071c5862-e349-4cbd-9e47-a4c22ef5e647.mp4"> | <video src="https://user-images.githubusercontent.com/533299/186359609-122c80f6-19a1-49d6-b8c2-35725ee6bc92.mp4"> | <video src="https://user-images.githubusercontent.com/533299/186359622-712b6fe2-3585-4bdf-87ea-78963a548b49.mov"> |
+
 For such a simple example, there are workarounds we could employ. For instance, we could move the whole animation into the SwiftUI context. However, there are spots in UIKit where this isn’t viable, like using the `UIHostingController` with the `UISheetPresentationController`.
 
 We believe this is a severe regression that should be addressed before releasing the current iteration of SwiftUI as part of iOS 16.
