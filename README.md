@@ -19,4 +19,4 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 
 ## About
 
-This is a project maintained by Structured Path GmbH, the company behind [Diagrams](https://diagrams.app), a native diagram editor for macOS. You can also find us on [Twitter](https://diagrams.app).
+This repository is maintained by Structured Path GmbH, the company behind [Diagrams](https://diagrams.app), a native diagram editor for macOS. You can also find us on [Twitter](https://twitter.com/diagramsapp).
