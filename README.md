@@ -16,7 +16,6 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB10030640](/FB10030640) - Focus in StoreKit Purchase Alert on macOS
 - [FB10034253](/FB10034253) - Incorrect baseline alignment of SwiftUI Button on macOS
 - [FB11356997](/FB11356997) - Severe regression with animating `UIHostingController` using UIKit animation techniques
-- [FB12093645](/FB12093645) - Faulty preference value propagation with `NSViewRepresentable` and `UIViewRepresentable` in stacks
 
 ## About
 
