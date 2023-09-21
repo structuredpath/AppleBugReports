@@ -18,6 +18,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB11356997](/FB11356997) - Severe regression with animating `UIHostingController` using UIKit animation techniques
 - [FB13194873](/FB13194873) - SwiftUI sheets not correctly deinitializing associated instances
 - [FB13195010](/FB13195010) - Deprecation of CloudKit user discoverability APIs in iOS 17
+- [FB13195041](/FB13195041) - Allow share invitees to add participants, similar to Apple’s first-party apps
 
 ## About
 
