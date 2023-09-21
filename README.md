@@ -17,6 +17,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB10034253](/FB10034253) - Incorrect baseline alignment of SwiftUI Button on macOS
 - [FB11356997](/FB11356997) - Severe regression with animating `UIHostingController` using UIKit animation techniques
 - [FB13194873](/FB13194873) - SwiftUI sheets not correctly deinitializing associated instances
+- [FB13195010](/FB13195010) - Deprecation of CloudKit user discoverability APIs in iOS 17
 
 ## About
 
