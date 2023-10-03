@@ -67,3 +67,7 @@ struct ContentView: View {
 ## Demo Recording
 
 <video width="300" src="https://github.com/structuredpath/AppleBugReports/assets/533299/0017d489-a11a-46a1-afd5-7367763c040c"></video>
+
+### Related Links
+
+- [Stack Overflow: SwiftUI List Visual Bug with Keyboard and Safe Area](https://stackoverflow.com/q/74248686/670119)
