@@ -62,10 +62,4 @@ struct ContentView: View {
 
 ## Demo Recording
 
-<video width="300" src="https://github.com/structuredpath/AppleBugReports/assets/533299/2f6c5e8f-36d6-47f6-9f00-2fd0e14d14de">
-
-## Environment
-
-- iOS 17
-- Xcode 15 RC
-- iOS Simulator / iPhone SE 3rd Gen / iPhone 12 / iPhone 13 mini
+<video width="300" src="https://github.com/structuredpath/AppleBugReports/assets/533299/2f6c5e8f-36d6-47f6-9f00-2fd0e14d14de"></video>
