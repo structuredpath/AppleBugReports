@@ -109,6 +109,9 @@ final class SheetViewModel: Identifiable {
 - Xcode 15 RC
 - iOS Simulator / iPhone SE 3rd Gen / iPhone 12 / iPhone 13 mini
 
-## Additional Information
+## Related Links
 
-See also [this Stack Overflow post](https://stackoverflow.com/questions/77098992/swiftui-sheets-not-correctly-deinitializing-associated-instances).
+- [Accompanying Stack Overflow Post](https://stackoverflow.com/questions/77098992/swiftui-sheets-not-correctly-deinitializing-associated-instances)
+- [Confirmation by Point-Free team](https://pointfreecommunity.slack.com/archives/C04L7QT8L2Y/p1694628396518809?thread_ts=1694628096.065059&cid=C04L7QT8L2Y)
+- [Sergey Pershenkov on Mastodon](https://mas.to/@okla/110915814130579266)
+- [@schornon on GitHub](https://github.com/schornon/PresentationDetentsLeak/issues/1)
