@@ -114,5 +114,8 @@ final class SheetViewModel: Identifiable {
 - [Accompanying Stack Overflow Post](https://stackoverflow.com/questions/77098992/swiftui-sheets-not-correctly-deinitializing-associated-instances)
 - [Confirmation by Point-Free team](https://pointfreecommunity.slack.com/archives/C04L7QT8L2Y/p1694628396518809?thread_ts=1694628096.065059&cid=C04L7QT8L2Y)
 - [Confirmation by Apple on their forums](https://developer.apple.com/forums/thread/737967?answerId=767599022#767599022)
-- [Sergey Pershenkov on Mastodon](https://mas.to/@okla/110915814130579266)
-- [@schornon on GitHub](https://github.com/schornon/PresentationDetentsLeak/issues/1)
+- Further references:
+  - [SwiftUI Sheet never releases object from memory](https://stackoverflow.com/questions/77227252/swiftui-sheet-never-releases-object-from-memory)
+  - [SwiftUI View leaks in iOS 17](https://stackoverflow.com/questions/77153299/swiftui-view-leaks-in-ios-17)
+  - [Sergey Pershenkov on Mastodon](https://mas.to/@okla/110915814130579266)
+  - [@schornon on GitHub](https://github.com/schornon/PresentationDetentsLeak/issues/1)
