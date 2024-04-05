@@ -55,7 +55,7 @@ struct ContentView: View {
 
 ## Issue Reproduction
 
-In Xcode:
+### In Xcode
 
 1. Open the attached project `ObservationMemoryAllocationIssue` in Xcode.
 2. Run the app in debug mode (default scheme).
@@ -64,9 +64,9 @@ In Xcode:
 5. Search for entries related to the Observation framework in the list within the Debug navigator (see attached screenshot).
 6. Compare the number of allocated objects with the number of SwiftUI view’s body evaluations.
 
-![](/screenshot-memory-graph.png)
+![](/FB13709464/screenshot-memory-graph.png)
 
-In Xcode & Instruments:
+### In Xcode & Instruments
 
 1. Open the attached project `ObservationMemoryAllocationIssue` in Xcode.
 2. Profile the app in release mode (default scheme) using the Allocation instrument.
@@ -74,7 +74,7 @@ In Xcode & Instruments:
 4. Select a phase after the app initialization.
 5. Inspect the heaviest stack trace that refers to `ObservationTracking._installTracking(_:willSet:didSet:)` (see attached screenshot).
 
-![](/screenshot-instruments.png)
+![](/FB13709464/screenshot-instruments.png)
 
 ## Environment
 
