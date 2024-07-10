@@ -23,6 +23,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB13228246](/FB13228246) - Glitchy animation in the safe area of a List during keyboard dismissal
 - [FB13709464](/FB13709464) - Persistent memory allocation issue in Observation framework
 - [FB13709622](/FB13709622) - Persistent memory allocation issue in `NSWindow`'s event logging
+- [FB14265721](/FB14265721) - Ongoing Issues with SwiftUI Animations in UIKit Context
 
 ## About
 
