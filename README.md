@@ -24,6 +24,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB13709464](/FB13709464) - Persistent memory allocation issue in Observation framework
 - [FB13709622](/FB13709622) - Persistent memory allocation issue in `NSWindow`'s event logging
 - [FB14265721](/FB14265721) - Ongoing Issues with SwiftUI Animations in UIKit Context
+- [FB15944020](/FB15944020) - App window focus bug with context menu on macOS 14 and 15
 
 ## About
 
