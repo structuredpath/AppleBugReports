@@ -71,3 +71,19 @@ struct ContentView: View {
 ### Related Links
 
 - [Stack Overflow: SwiftUI List Visual Bug with Keyboard and Safe Area](https://stackoverflow.com/q/74248686/670119)
+
+---
+
+Thanks for getting back to me.
+
+The glitchy animation is indeed gone now. However, when hiding the keyboard, it now disappears instantly without any animation. This is new behavior and not expected. The keyboard should animate away when dismissed, so the issue is still not resolved.
+
+Other developers have reported this specific issue with the missing hide animation here:
+- https://developer.apple.com/forums/thread/798476
+- https://github.com/facebook/react-native/issues/53626
+
+Tested in the Simulator of Xcode 26.1 beta 3 on macOS Sequoia 15.7.1.
+
+I had also hoped this would address the broader animation issues I originally reported in FB14265721, which have been around since iOS 17. That does not seem to be the case. It is becoming increasingly frustrating to see regressions like this persist across major iOS versions while new ones are introduced.
+
+<video width="300" src="https://github.com/user-attachments/assets/048dd1c0-3cb7-494d-a18e-cfac2cbe649d"></video>
