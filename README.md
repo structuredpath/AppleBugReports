@@ -25,7 +25,8 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB13709622](/FB13709622) - Persistent memory allocation issue in `NSWindow`'s event logging
 - [FB14265721](/FB14265721) - Ongoing Issues with SwiftUI Animations in UIKit Context
 - [FB15944020](/FB15944020) - App window focus bug with context menu on macOS 14 and 15
+- [FB20894690](/FB20894690) - Multiline selection fails with Shift + Arrow Up in TextKit 2
 
 ## About
 
-This repository is maintained by Structured Path GmbH, the company behind [Diagrams](https://diagrams.app), a native diagram editor for macOS. You can also find us on [Twitter](https://twitter.com/diagramsapp).
+This repository is maintained by [Structured Path GmbH](https://structuredpath.eu), the company behind [Diagrams](https://diagrams.app), a native diagram editor for macOS.
