@@ -26,6 +26,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 - [FB14265721](/FB14265721) - Ongoing Issues with SwiftUI Animations in UIKit Context
 - [FB15944020](/FB15944020) - App window focus bug with context menu on macOS 14 and 15
 - [FB20894690](/FB20894690) - Multiline selection fails with Shift + Arrow Up in TextKit 2
+- [FB21616781](/FB21616781) - Non-atomic batch operations fail atomically with encrypted fields in CloudKit
 
 ## About
 
