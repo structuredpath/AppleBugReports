@@ -29,6 +29,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 | [FB15944020](/FB15944020) | App window focus bug with context menu on macOS 14 and 15 |
 | [FB20894690](/FB20894690) | Multiline selection fails with Shift + Arrow Up in TextKit 2 |
 | [FB21616781](/FB21616781) | Non-atomic batch operations fail atomically with encrypted fields in CloudKit |
+| [FB21706305](/FB21706305) | Liquid Glass sheet material clips during detent transitions |
 
 ## About
 
