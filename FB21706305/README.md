@@ -29,7 +29,7 @@ Background material clips mid-animation. The upper portion retains normal appear
 - Only tapping or programmatic detent changes exhibit the glitch.
 - Running in Simulator with Slow Animations (Debug → Slow Animations) clearly shows the bug. See attached recording.
 - Occurs on iOS 26.2 with Xcode 26.2 (17C55), Simulator and device.
-- Possibly related to FB13206351, which I reported a while back (glitchy animation when programmatically switching detents).
+- Possibly related to [FB13206351](/FB13206351) and [FB11356997](/FB11356997), which I reported a while back.
 
 ## Code Sample
 
