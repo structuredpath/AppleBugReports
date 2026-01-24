@@ -31,6 +31,7 @@ This repository contains a database of feedbacks our team filed with Apple, incl
 | [FB21616781](/FB21616781) | Non-atomic batch operations fail atomically with encrypted fields in CloudKit |
 | [FB21706305](/FB21706305) | Liquid Glass sheet material clips during detent transitions |
 | [FB21726099](/FB21726099) | Liquid Glass toolbar item glitch after light/dark mode switch |
+| [FB21737429](/FB21737429) | Shadow clipping during zoom transition from sheet to toolbar item |
 
 ## About
 
